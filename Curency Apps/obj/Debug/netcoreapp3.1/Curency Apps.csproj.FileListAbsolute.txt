@@ -1,0 +1,19 @@
+D:\P.Lanjut\Curency Apps\Curency Apps\bin\Debug\netcoreapp3.1\Curency Apps.exe
+D:\P.Lanjut\Curency Apps\Curency Apps\bin\Debug\netcoreapp3.1\Curency Apps.deps.json
+D:\P.Lanjut\Curency Apps\Curency Apps\bin\Debug\netcoreapp3.1\Curency Apps.runtimeconfig.json
+D:\P.Lanjut\Curency Apps\Curency Apps\bin\Debug\netcoreapp3.1\Curency Apps.runtimeconfig.dev.json
+D:\P.Lanjut\Curency Apps\Curency Apps\bin\Debug\netcoreapp3.1\Curency Apps.dll
+D:\P.Lanjut\Curency Apps\Curency Apps\bin\Debug\netcoreapp3.1\Curency Apps.pdb
+D:\P.Lanjut\Curency Apps\Curency Apps\obj\Debug\netcoreapp3.1\Curency Apps.csprojAssemblyReference.cache
+D:\P.Lanjut\Curency Apps\Curency Apps\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\P.Lanjut\Curency Apps\Curency Apps\obj\Debug\netcoreapp3.1\App.g.cs
+D:\P.Lanjut\Curency Apps\Curency Apps\obj\Debug\netcoreapp3.1\Curency Apps_MarkupCompile.cache
+D:\P.Lanjut\Curency Apps\Curency Apps\obj\Debug\netcoreapp3.1\Curency Apps_MarkupCompile.lref
+D:\P.Lanjut\Curency Apps\Curency Apps\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\P.Lanjut\Curency Apps\Curency Apps\obj\Debug\netcoreapp3.1\Curency Apps.g.resources
+D:\P.Lanjut\Curency Apps\Curency Apps\obj\Debug\netcoreapp3.1\Curency Apps.AssemblyInfoInputs.cache
+D:\P.Lanjut\Curency Apps\Curency Apps\obj\Debug\netcoreapp3.1\Curency Apps.AssemblyInfo.cs
+D:\P.Lanjut\Curency Apps\Curency Apps\obj\Debug\netcoreapp3.1\Curency Apps.csproj.CoreCompileInputs.cache
+D:\P.Lanjut\Curency Apps\Curency Apps\obj\Debug\netcoreapp3.1\Curency Apps.dll
+D:\P.Lanjut\Curency Apps\Curency Apps\obj\Debug\netcoreapp3.1\Curency Apps.pdb
+D:\P.Lanjut\Curency Apps\Curency Apps\obj\Debug\netcoreapp3.1\Curency Apps.genruntimeconfig.cache
