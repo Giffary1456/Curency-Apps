@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Curency Apps", "Curency Apps\Curency Apps.csproj", "{B834C1DE-E58D-4AE7-950D-6812991209F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B834C1DE-E58D-4AE7-950D-6812991209F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B834C1DE-E58D-4AE7-950D-6812991209F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B834C1DE-E58D-4AE7-950D-6812991209F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B834C1DE-E58D-4AE7-950D-6812991209F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6477D6E4-7EF8-4552-8670-3DF996D0C89F}
+	EndGlobalSection
+EndGlobal
